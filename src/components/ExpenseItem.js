@@ -1,6 +1,7 @@
+import './ExpenseItem.css';
 function ExpenseItem(){
     return(
-        <div>
+        <div className=''>
             <h2>Expense Item</h2>
         </div>
 
